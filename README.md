@@ -9,4 +9,8 @@ Currently enhancing my projects with JWT security, Docker, CI/CD pipelines, Flyw
 
 🚀 Check out my featured project: a Spring Boot Task Tracker API with robust validation, DTOs, Swagger docs, and JWT authentication.
 
+#### 🔧 Spring Boot Task Tracker API
+A fully authenticated REST API built with Spring Boot 3, JPA, JWT security, and Swagger docs.  
+[Live Demo]([https://your-service-name.onrender.com/swagger-ui/index.html](https://task-tracker-api-gr89.onrender.com/swagger-ui/index.html)) | [GitHub Repo](https://github.com/nick-0516/task-tracker-api)
+
 [🔗LinkedIn](https://www.linkedin.com/in/raviteja-naidu-miriyala/) • [🐙 GitHub](https://github.com/nick-0516)
