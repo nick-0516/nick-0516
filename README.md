@@ -11,6 +11,6 @@ Currently enhancing my projects with JWT security, Docker, CI/CD pipelines, Flyw
 
 #### 🔧 Spring Boot Task Tracker API
 A fully authenticated REST API built with Spring Boot 3, JPA, JWT security, and Swagger docs.  
-[Live Demo](https://task-tracker-api-gr89.onrender.com/swagger-ui/index.html) | [GitHub Repo](https://github.com/nick-0516/task-tracker-api)
+[Live Demo](https://task-tracker-api-gr89.onrender.com/swagger-ui/index.html) | [GitHub Repo](https://github.com/nick-0516/spring-boot-task-tracker-api)
 
 [🔗LinkedIn](https://www.linkedin.com/in/raviteja-naidu-miriyala/) • [🐙 GitHub](https://github.com/nick-0516)
